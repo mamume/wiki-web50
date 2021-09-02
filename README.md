@@ -19,7 +19,7 @@ A Wikipedia-like online encyclopedia Design.
 - **Random Page**: Clicking “Random Page” in the sidebar will take user to a random encyclopedia entry.
 - **Markdown to HTML Conversion**: On each entry’s page, any Markdown content in the entry file will be converted to HTML before being displayed to the user. python-markdown2 package is used to perform this conversion, installable via pip3 install markdown2.
 
-For more details: [Wiki - CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
+*For more details: [Wiki - CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/projects/1/wiki/)*
 
 
 
