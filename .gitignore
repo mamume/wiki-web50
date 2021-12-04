@@ -1,2 +1,4 @@
 .vscode
 pvenv
+__pycache__/
+*.py[cod]
