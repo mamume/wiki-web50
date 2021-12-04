@@ -15,7 +15,7 @@ In Wikipedia web application, you can create, edit or delete a wiki page. Made u
  python manage.py migrate
  ```
  
-## Run The Project
+## Run Project
 ```
 python manage.py runserver
 ```
