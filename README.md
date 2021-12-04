@@ -1,5 +1,24 @@
 # Wiki
-A Wikipedia-like online encyclopedia Design.
+A Wikipedia-like online encyclopedia.
+
+## Description
+In Wikipedia web application, you can create, edit or delete a wiki page. Made using Django Framework. Topics are formatted using Markdown markup language. 
+
+## Installation
+ ```
+ pip install -r requirement.txt
+ ```
+
+## Database Processing
+ ```
+ python mange.py makemigrations
+ python manage.py migrate
+ ```
+ 
+## Run The Project
+```
+python manage.py runserver
+```
 
 ## Specification
 - **Entry Page**: Visiting `/wiki/TITLE`, where `TITLE` is the title of an encyclopedia entry, will render a page that displays the contents of that encyclopedia entry.
